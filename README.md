@@ -45,8 +45,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: HARISH RAGAV S
+### Register Number: 212222110013
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
