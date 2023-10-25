@@ -44,6 +44,8 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![image](https://github.com/harishragav272003/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119345345/3ae22e11-7cb7-4568-8d89-c4025ccd462d)
+
 
 ### Name: HARISH RAGAV S
 ### Register Number: 212222110013
